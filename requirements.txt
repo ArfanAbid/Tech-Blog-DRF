@@ -1,0 +1,8 @@
+django>=5.0.0
+djangorestframework
+pyyaml
+#mysql
+#mysql-connector-python
+#mysql-connector-python
+#install latest version of node must be > 18 
+
