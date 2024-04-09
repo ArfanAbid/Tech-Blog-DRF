@@ -1,6 +1,7 @@
 django>=5.0.0
 djangorestframework
 pyyaml
+djangorestframework-simplejwt
 #mysql
 #mysql-connector-python
 #mysql-connector-python
