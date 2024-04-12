@@ -2,6 +2,8 @@ django>=5.0.0
 djangorestframework
 pyyaml
 djangorestframework-simplejwt
+pillow
+django-filter
 #mysql
 #mysql-connector-python
 #mysql-connector-python

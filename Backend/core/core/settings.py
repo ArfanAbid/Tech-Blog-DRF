@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
 EXTERNAL_APPS=[
     'User',
+    'Blog',
     'rest_framework_simplejwt',
 ]
 
